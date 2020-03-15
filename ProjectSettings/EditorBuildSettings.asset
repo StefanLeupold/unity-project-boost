@@ -6,24 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Level 1.unity
+    path: Assets/Scenes/up and over.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Level 2.unity
-    guid: 767738464ff161c47ae6b556b0b91041
-  - enabled: 1
-    path: Assets/Scenes/Level 3.unity
+    path: Assets/Scenes/chompers.unity
     guid: 25535141858f98d47b94fe1f073f6cce
   - enabled: 1
-    path: Assets/Scenes/Level 4.unity
+    path: Assets/Scenes/roof getting closer.unity
+    guid: 767738464ff161c47ae6b556b0b91041
+  - enabled: 1
+    path: Assets/Scenes/funnel.unity
     guid: 794919c38aad89446ba7c7ff10cb6e9e
   - enabled: 1
-    path: Assets/Scenes/Level 5.unity
+    path: Assets/Scenes/needle.unity
     guid: fbad8d7b94c2312439d5add4305e3fce
   - enabled: 1
-    path: Assets/Scenes/Level 6.unity
+    path: Assets/Scenes/doors.unity
     guid: ea2bb5bc9e7e87d45a1e4c16951ff70c
   - enabled: 1
-    path: Assets/Scenes/Level 7.unity
+    path: Assets/Scenes/easteregg.unity
     guid: e903f71310d73264d9bc25abeb329a0e
   m_configObjects: {}
