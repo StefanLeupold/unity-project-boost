@@ -13,10 +13,13 @@ EditorBuildSettings:
     guid: 25535141858f98d47b94fe1f073f6cce
   - enabled: 1
     path: Assets/Scenes/roof getting closer.unity
-    guid: 767738464ff161c47ae6b556b0b91041
+    guid: 7e1777662d22df349ac6939994ac0659
   - enabled: 1
     path: Assets/Scenes/funnel.unity
     guid: 794919c38aad89446ba7c7ff10cb6e9e
+  - enabled: 1
+    path: Assets/Scenes/darkness.unity
+    guid: 767738464ff161c47ae6b556b0b91041
   - enabled: 1
     path: Assets/Scenes/needle.unity
     guid: fbad8d7b94c2312439d5add4305e3fce
