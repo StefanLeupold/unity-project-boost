@@ -1256,22 +1256,22 @@ PrefabInstance:
     - target: {fileID: 2767070893780910524, guid: 208e98b9a42c6174ba04a6bacee38864,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.41235545
+      value: 0.076784745
       objectReference: {fileID: 0}
     - target: {fileID: 2767070893780910524, guid: 208e98b9a42c6174ba04a6bacee38864,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.050111726
+      value: -0.031050641
       objectReference: {fileID: 0}
     - target: {fileID: 2767070893780910524, guid: 208e98b9a42c6174ba04a6bacee38864,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.09530827
+      value: 0.14747368
       objectReference: {fileID: 0}
     - target: {fileID: 2767070893780910524, guid: 208e98b9a42c6174ba04a6bacee38864,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.90463704
+      value: 0.985592
       objectReference: {fileID: 0}
     - target: {fileID: 2767070893780910524, guid: 208e98b9a42c6174ba04a6bacee38864,
         type: 3}
@@ -1281,22 +1281,27 @@ PrefabInstance:
     - target: {fileID: 2767070893780910524, guid: 208e98b9a42c6174ba04a6bacee38864,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 49.079002
+      value: 9.237
       objectReference: {fileID: 0}
     - target: {fileID: 2767070893780910524, guid: 208e98b9a42c6174ba04a6bacee38864,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -1.0550001
+      value: -2.239
       objectReference: {fileID: 0}
     - target: {fileID: 2767070893780910524, guid: 208e98b9a42c6174ba04a6bacee38864,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 11.547001
+      value: 16.839
       objectReference: {fileID: 0}
     - target: {fileID: 2767070893780910525, guid: 208e98b9a42c6174ba04a6bacee38864,
         type: 3}
       propertyPath: m_Intensity
-      value: 1.3
+      value: 1.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 2767070893780910525, guid: 208e98b9a42c6174ba04a6bacee38864,
+        type: 3}
+      propertyPath: m_Shadows.m_Type
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2767070893780910526, guid: 208e98b9a42c6174ba04a6bacee38864,
         type: 3}

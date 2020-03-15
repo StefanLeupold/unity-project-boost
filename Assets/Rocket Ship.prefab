@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 606475524757590089}
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 2.129, z: 0}
+  m_LocalPosition: {x: 0, y: 2.735, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8454686616155427169}
@@ -212,8 +212,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3172516536432015937}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.3400002, z: 0}
-  m_LocalScale: {x: 1.004364, y: 1.4335287, z: 1.004364}
+  m_LocalPosition: {x: 0, y: 1.234, z: 0}
+  m_LocalScale: {x: 0.97423315, y: 1.9290724, z: 0.97423315}
   m_Children: []
   m_Father: {fileID: 8454686616155427169}
   m_RootOrder: 3
@@ -627,7 +627,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rcsThrust: 30000
   rcsThrustRotation: 250
-  levelLoadDelay: 2
+  levelLoadDelay: 1
   mainEngine: {fileID: 8300000, guid: 52f23903e8817c445821a134e0d91fd9, type: 3}
   success: {fileID: 8300000, guid: 70bf147758c85084c86d058b77ddf6de, type: 3}
   death: {fileID: 8300000, guid: 8e4b8f5e31ee6944e987a7b0480d1767, type: 3}
